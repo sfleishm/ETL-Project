@@ -1,4 +1,5 @@
 Overview:
+
 For this project, we were interested in seeing what kind of information there is available on mass shootings and crime rate. Once we gathered the data, the next step for a fully built out project would then be to see if there is any correlation between areas of crime and mass shootings. 
 We had two datasets, one mass shooting dataset which came from Mother Jones through Data World,
 
