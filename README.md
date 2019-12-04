@@ -30,3 +30,9 @@ Ran a Python script with the module Pymongo to insert our information into a mon
 We felt a non-relational database would work best for this project because using Mongo allowed to have our data as a JSON file or a dictionary for easier importing and exporting. We felt it was best to have more control over our data as a dictionary (CRUD) and upload into MongoDB. 
 https://www.pluralsight.com/blog/software-development/relational-non-relational-databases
 
+## Technologies Used:
+* Python
+* MongoDB
+* PyMongo
+* SQLAlchemy
+* Pandas
